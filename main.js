@@ -2,7 +2,7 @@
 const Github_Username = "vexr-discord";
 
 //My Email ID
-const Email_Id = "ahahwuuw@gmail.com";
+const Email_Id = "akshatmehta202005@gmail.com";
 
 var xhr = new XMLHttpRequest();
 xhr.addEventListener("readystatechange", function() {
